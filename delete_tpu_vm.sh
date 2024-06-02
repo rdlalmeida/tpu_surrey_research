@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Added a stupid comment to test the github crap
 if [[ $VM_NAME = "" ]];
 then
 	printf "Cannot find a working TPU VM to stop (\$VM_NAME not defined).\n"
